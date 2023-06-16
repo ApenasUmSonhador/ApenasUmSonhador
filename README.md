@@ -12,7 +12,7 @@
 
 ### Learning:
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=1572B6&labelcolor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=c%2B%2B&logoColor=1572B6&labelcolor=0D1117)&nbsp;
 
 
 ## You can reach me in:
