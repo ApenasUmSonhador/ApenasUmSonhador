@@ -16,7 +16,7 @@
 
 
 ## You can reach me in:
-[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/arthurvininunes/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurvininunes/)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
