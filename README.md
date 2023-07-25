@@ -12,14 +12,14 @@
 
 ### Learning:
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=1572B6&labelcolor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=green)
+![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=green)&nbsp;
 ![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=red)
 
 ## Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)&nbsp;
 [![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-0D1117.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## You can reach me in:
