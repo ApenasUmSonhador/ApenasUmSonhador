@@ -19,6 +19,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=green)&nbsp;
 ![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=red)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelcolor=0D1117)
 
 
 ## Tools:
@@ -26,8 +27,6 @@
 [![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-0D1117.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma)
-
 ## You can reach me in:
 [![LinkedIn](https://img.shields.io/badge/linkedin-0D1117.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/arthurvininunes/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](mailto:arthurvininunes@alu.ufc.br)
