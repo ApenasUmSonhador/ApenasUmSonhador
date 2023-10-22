@@ -14,7 +14,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
 
 ## Learning:
-![GO](https://img.shields.io/badge/GO-0D1117?style=for-the-badge&logo=go&logoColor=white&labelcolor=0D1117)&nbsp;
+![GO](https://img.shields.io/badge/GO-0D1117?style=for-the-badge&logo=go&logoColor=bluee&labelcolor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=1572B6&labelcolor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=green)&nbsp;
