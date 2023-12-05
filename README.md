@@ -14,11 +14,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
 
 ## Learning:
+![Postgres](https://img.shields.io/badge/postgres-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=blue&labelcolor=0D1117)&nbsp;
 ![GO](https://img.shields.io/badge/GO-0D1117?style=for-the-badge&logo=go&logoColor=bluee&labelcolor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=1572B6&labelcolor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=green)&nbsp;
 
 ## Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)&nbsp;
@@ -28,6 +28,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0D1117.svg?style=for-the-badge&logo=Trello&logoColor=blue)&nbsp;
 
 ## You can reach me in:
+[![Curriculum Vitae](https://img.shields.io/badge/-Curriculum%20Vitae-0D1117?style=round-squaree)](https://docs.google.com/document/d/1iFbsFdSpxb3GoZ2gmL0Iv14Z0dz_1vMezDsFj870i80/edit?usp=sharing)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-0D1117.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/arthurvininunes/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](mailto:arthurvininunes@alu.ufc.br)
 
