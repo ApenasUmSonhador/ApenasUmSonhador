@@ -7,6 +7,15 @@
 
 </div>
 
+## Currently Working With:
+![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
+![Vue.JS](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
 ## Main Skills:
 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
@@ -14,13 +23,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ## Learning:
 
 ![Postgres](https://img.shields.io/badge/postgres-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=blue&labelcolor=0D1117)&nbsp;
 ![GO](https://img.shields.io/badge/GO-0D1117?style=for-the-badge&logo=go&logoColor=bluee&labelcolor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=1572B6&labelcolor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ## Tools:
 
@@ -29,6 +38,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=30A3DC)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-0D1117.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0D1117.svg?style=for-the-badge&logo=Trello&logoColor=blue)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=Jira&logoColor=0052CC)&nbsp;
+![Slack](https://img.shields.io/badge/Slack-0D1117?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
 ## You can reach me in:
 
