@@ -26,8 +26,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ## Learning:
-![Vim](https://img.shields.io/badge/VIM-%0D1117.svg?style=for-the-badge&logo=vim&logoColor=white)
-
+![Vim](https://img.shields.io/badge/VIM-0D1117?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp;
 ![GO](https://img.shields.io/badge/GO-0D1117?style=for-the-badge&logo=go&logoColor=bluee&labelcolor=0D1117)&nbsp;
