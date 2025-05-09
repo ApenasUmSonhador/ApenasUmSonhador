@@ -13,7 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=blue&labelcolor=0D1117)&nbsp;
 
 ## Main Skills:
@@ -27,7 +26,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ## Learning:
+![Vim](https://img.shields.io/badge/VIM-%0D1117.svg?style=for-the-badge&logo=vim&logoColor=white)
 
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp;
 ![GO](https://img.shields.io/badge/GO-0D1117?style=for-the-badge&logo=go&logoColor=bluee&labelcolor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=1572B6&labelcolor=0D1117)&nbsp;
@@ -47,6 +48,8 @@
 [![Curriculum Vitae](https://img.shields.io/badge/-Curriculum%20Vitae-0D1117?style=round-squaree)](https://docs.google.com/document/d/1iFbsFdSpxb3GoZ2gmL0Iv14Z0dz_1vMezDsFj870i80/edit?usp=sharing)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-0D1117.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/arthurvininunes/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](mailto:arthurvininunes@alu.ufc.br)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/apenas_um_sonhador/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-0D1117?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/arthurvininunes)
 
 <div align="center">
     <br>
