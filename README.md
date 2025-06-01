@@ -9,7 +9,7 @@
 
 ## Currently Working With:
 ![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react)&nbsp;
-![Node.Js](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
+![Node.Js](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=Node.js&logoColor=green)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -26,7 +26,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ## Learning:
-![Vim](https://img.shields.io/badge/VIM-0D1117?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+![Vim](https://img.shields.io/badge/VIM-0D1117?style=for-the-badge&logo=vim&logoColor=green)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp;
 ![GO](https://img.shields.io/badge/GO-0D1117?style=for-the-badge&logo=go&logoColor=bluee&labelcolor=0D1117)&nbsp;
