@@ -12,23 +12,26 @@
 ![Node.Js](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=Node.js&logoColor=green)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=blue&labelcolor=0D1117)&nbsp;
 
 ## Main Skills:
-
+![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react)&nbsp;
+![Node.Js](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=Node.js&logoColor=green)&nbsp;
 ![Vue.JS](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=red)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=blue&labelcolor=0D1117)&nbsp;
 
 ## Learning:
 ![Vim](https://img.shields.io/badge/VIM-0D1117?style=for-the-badge&logo=vim&logoColor=green)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp;
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelcolor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=1572B6&labelcolor=0D1117)&nbsp;
 
 ## Tools:
