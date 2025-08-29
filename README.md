@@ -52,13 +52,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/apenas_um_sonhador/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-0D1117?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/arthurvininunes)
 
-<div align="center">
-    <br>
-    <p><b>Visitors Count</b></p>  
-    <p><img align="center" src="https://profile-counter.glitch.me/{ApenasUmSonhador}/count.svg"></p> 
-    <br>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ApenasUmSonhador/ApenasUmSonhador/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ApenasUmSonhador/ApenasUmSonhador/output/github-contribution-grid-snake.svg">
