@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Arthur+Nunes;I'm+21+years+old;I'm+from+Brazil,+CE;I+study+Computer+Science+at+UFC;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Arthur+Nunes;I'm+22+years+old;I'm+from+Brazil,+CE;I+study+Computer+Science+at+UFC;Be+Welcome!+:%29)
 
 ## Currently Working With:
 ![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react)&nbsp;
