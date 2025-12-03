@@ -32,8 +32,8 @@ A complete and updated version of my professional experience, skills and project
 ---
 
 ## 📫 Contact Me
-LinkedIn: https://www.linkedin.com/in/arthurvininunes/  
-Email: arthurvininunes@alu.ufc.br  
+- Email: [arthurvininunes@gmail.com](mailto:arthurvininunes@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/arthurvininunes/](https://www.linkedin.com/in/arthurvininunes/)
 
 ---
 
