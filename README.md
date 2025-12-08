@@ -1,7 +1,7 @@
 # Hello, I'm Arthur Nunes 👋
 
-Full Stack Developer | 22y | Ceará, Brazil  
-Computer Science student at UFC  
+👀 Full Stack Developer | 22y | Ceará, Brazil  
+🎓 Computer Science student at UFC  
 
 ---
 
@@ -12,22 +12,20 @@ A complete and updated version of my professional experience, skills and project
 ---
 
 ## 🧠 Main Skills
-- React  
-- Node.js  
-- Vue.js  
-- Python  
-- Java  
-- JavaScript  
-- HTML & CSS  
-- MySQL  
-- PostgreSQL  
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,vue,python,java,javascript,html,css,mysql,postgresql" />
+  </a>
+</div>
 
 ---
 
 ## 📚 Currently Learning
-- Vim  
-- PHP  
-- Laravel  
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,php,laravel" />
+  </a>
+</div>
 
 ---
 
