@@ -12,9 +12,24 @@ A complete and updated version of my professional experience, skills and project
 ---
 
 ## 🧠 Main Skills
+### ⚙️ Tools
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,vue,python,java,javascript,html,css,mysql,postgresql" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git,vscode,bitbucket,gitlab,github" />
+  </a>
+</div>
+
+### 💾 Backend
+<div align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,javascript,typescript,prisma" />
+  </a>
+</div>
+
+### 🎨 Frontend
+<div align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vue,react,javascript,typescript,html,css" />
   </a>
 </div>
 
@@ -22,16 +37,22 @@ A complete and updated version of my professional experience, skills and project
 
 ## 📚 Currently Learning
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,php,laravel" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vim,php,laravel,cpp" />
   </a>
 </div>
 
 ---
 
 ## 📫 Contact Me
-- Email: [arthurvininunes@gmail.com](mailto:arthurvininunes@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/arthurvininunes/](https://www.linkedin.com/in/arthurvininunes/)
+<div align="center">
+  <a href="mailto:arthurvininunes@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />    
+  </a>
+  <a href="https://www.linkedin.com/in/arthurvininunes/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</div>
 
 ---
 
