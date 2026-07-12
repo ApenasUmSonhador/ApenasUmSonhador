@@ -37,7 +37,7 @@ A complete and updated version of my professional experience, skills and project
 ## 📚 Currently Learning
 <div align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vim,php,laravel,cpp" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
   </a>
 </div>
 
