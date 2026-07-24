@@ -7,7 +7,7 @@
 
 ## 📄 My Curriculum Vitae (CV)
 A complete and updated version of my professional experience, skills and projects (Online):
-- [Curriculum Vitae](https://ArthurViniNunes.github.io/Curriculum-Vitae/)
+- [Curriculum Vitae](https://drive.google.com/file/d/12t6oa_TYMcvTzJyDzx6zKF0OBqf0NaZ6/view?usp=sharing)
 ---
 
 ## 🧠 Main Skills
